@@ -1,7 +1,3 @@
-# Vitepress starter
+# VitePress starter RU
 
-VitePress с локализованным дефолтным шаблоном.
-
-
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/proweb/ru-vitepress-docs)
+VitePress с RU-локализацией
