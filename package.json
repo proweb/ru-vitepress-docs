@@ -1,4 +1,6 @@
 {
+  "name": "ru-vitepress-docs",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -7,6 +9,6 @@
     "serve": "vitepress serve"
   },
   "devDependencies": {
-    "vitepress": "latest"
+    "vitepress": "^1.6.4"
   }
 }
