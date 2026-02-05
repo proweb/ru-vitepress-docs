@@ -1,4 +1,5 @@
 node_modules
-dist
-.temp
-cache
+.vitepress/dist
+.vitepress/cache
+.vitepress/temp
+*.log

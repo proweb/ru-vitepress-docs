@@ -7,5 +7,5 @@ title: Пример кода
 Сниппет для разработчиков
 
 ```js
-concole.log("Hello VitePress");
+console.log("Hello VitePress");
 ```
