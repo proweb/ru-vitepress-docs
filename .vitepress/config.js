@@ -14,6 +14,11 @@ export default defineConfig({
 
   // Default theme
   themeConfig: {
+    notFound: {
+      title: 'Страница не найдена.',
+      quote: 'Попробуйте поискать в другом разделе сайта.',
+      linkText: 'Перейти на главную',
+    },
     // Topnav
     nav: [
       { text: 'Руководства', link: '/guide/' },
