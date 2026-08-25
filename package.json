@@ -9,13 +9,13 @@
     "serve": "vitepress serve"
   },
   "devDependencies": {
-    "@shikijs/core": "^4.3.1",
-    "@vue/shared": "^3.5.40",
-    "@vueuse/core": "^14.3.0",
-    "@vueuse/integrations": "^14.3.0",
-    "esbuild": "^0.28.1",
-    "shiki": "^4.3.1",
-    "vite": "^8.1.5",
+    "@shikijs/core": "^4.4.3",
+    "@vue/shared": "^3.5.41",
+    "@vueuse/core": "^14.4.0",
+    "@vueuse/integrations": "^14.4.0",
+    "esbuild": "^0.28.2",
+    "shiki": "^4.4.3",
+    "vite": "^8.2.2",
     "vitepress": "^1.6.4"
   }
 }
